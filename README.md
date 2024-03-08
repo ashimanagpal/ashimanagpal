@@ -1,5 +1,14 @@
 ### Hello 👋, नमस्ते 🙏 i'm Ashima Nagpal
 
+A passionate UI Developer from India
+
+🔭 I’m currently working on Percipient NMS
+
+🏫 I’m currently learning Javascript, Angular, ReactJS
+
+💻 All of my projects are available at [My Portfolio](https://ashima-nagpal.netlify.app/)
+
+💗 Love to talk about Research and Innovation!
 <!--
 **ashimanagpal/ashimanagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
