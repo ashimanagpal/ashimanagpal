@@ -9,6 +9,11 @@ A passionate UI Developer from India
 💻 All of my projects are available at [My Portfolio](https://ashima-nagpal.netlify.app/)
 
 💗 Love to talk about Research and Innovation!
+
+Technologies:
+
+HTML5 | CSS3 | Bootstrap | BEM | SASS | Tailwind CSS | Material UI | RWD | Adobe Photoshop | XD | Git | jQuery | PWA | JavaScript | React JS
+
 <!--
 **ashimanagpal/ashimanagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
