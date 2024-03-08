@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋, नमस्ते 🙏 i'm Ashima Nagpal
 
 <!--
 **ashimanagpal/ashimanagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
